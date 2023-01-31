@@ -11,19 +11,19 @@ To help with this problem, it would be useful to be able to predict the likeliho
 
 
 	Referrer	  Location	  Read FAQ	Pages Viewed	Service Chosen
-1	Slashdot	  USA	        Yes	      Mid	          None
-2	Google	    France	    Yes     	High	        Premium
-3	Digg	      USA	        Yes     	High	        Basic
-4	Kiwitobes	  France	    Yes	      High	        Basic
-5	Google	    UK	        No	      Mid	          Premium
-6	(direct)	  New Zealand	No	      Low	          None
-7	(direct)	  UK	        No	      Mid	          Basic
-8	Google	    USA	        No	      High	        Premium
-9	Slashdot	  France	    Yes	      Mid	          None
-10	Digg	    USA	        No	      Mid	          None
-11	Google	  UK	        No	      Mid	          None
-12	Kiwitobes	UK	        No	      Mid	          None
-13	Digg	    New Zealand	Yes	      Low         	Basic
-14	Google	  UK	        Yes	      Mid	          Basic
-15	Kiwitobes	France	    Yes	      Mid	          Basic
+1	Slashdot	  USA	          Yes	        Mid	        None
+2	Google	    	  France	  Yes     	High	        Premium
+3	Digg	      	  USA	          Yes     	High	        Basic
+4	Kiwitobes	  France	  Yes	      	High	        Basic
+5	Google	       	  UK	          No	      	Mid	        Premium
+6	(direct)	  New Zealand	  No	      	Low	        None
+7	(direct)	  UK	          No	      	Mid	        Basic
+8	Google	    	  USA	          No	      	High	        Premium
+9	Slashdot	  France	  Yes	      	Mid	        None
+10	Digg	    	  USA	          No	      	Mid	        None
+11	Google	  	  UK	          No	      	Mid	        None
+12	Kiwitobes	  UK	          No	      	Mid	        None
+13	Digg	    	  New Zealand	  Yes	      	Low         	Basic
+14	Google	  	  UK	          Yes	      	Mid	        Basic
+15	Kiwitobes	  France	  Yes	      	Mid	        Basic
 
