@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: decision-tree-id3
+Version: 0.1.2
+Summary: A scikit-learn compatible package for id3 decision tree
+Home-page: https://github.com/svaante/decision-tree-id3
+Author: Daniel Pettersson, Otto Nordander
+Author-email: svaante@gmail.com, otto.nordander@gmail.com
+License: new BSD
+Description: UNKNOWN
+Platform: UNKNOWN
